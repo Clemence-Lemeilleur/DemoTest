@@ -1,0 +1,10 @@
+projects: 
+  - nom: Clem
+    town: Tls
+    librairies:
+    - nom: INDENTATION
+      version: 3
+      description: ESPACES
+    serveurs:
+    - nom: clem
+      URL: kqjgf

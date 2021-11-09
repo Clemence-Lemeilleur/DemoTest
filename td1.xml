@@ -1,0 +1,39 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+<!--xmlvalidation.com-->
+<projets>
+    <projet>
+        <nom>aaaa</nom>
+        <town>bbbb</town>
+        <librairies> 
+            <librairie>
+                <nom>cccc</nom>
+                <version>12.8</version>
+                <description>blabla</description>
+            </librairie>
+        </librairies>
+        <serveurs> 
+            <serveur>
+                <nom>eeee</nom>
+                <URL>https://clem</URL>
+            </serveur>
+        </serveurs>
+    </projet> 
+
+    <projet>
+        <nom>clem</nom>
+        <town>jjjj</town>
+        <librairies> 
+            <librairie>
+                <nom>dddd</nom>
+                <version>12.8</version>
+                <description>qzsd</description>
+            </librairie>
+        </librairies>
+        <serveurs> 
+            <serveur>
+                <nom>eeer'rrrrrre</nom>
+                <URL>https://clemou</URL>
+            </serveur>
+        </serveurs>
+    </projet> 
+</projets> 

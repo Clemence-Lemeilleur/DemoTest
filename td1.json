@@ -1,0 +1,26 @@
+
+{ "projects":[
+    { "projet":[
+        {
+        "nom":"clem",
+        "town":"NY"
+        },
+        { "librairies":[
+            { "librairie":[
+                {
+                    "nom":"clem",
+                    "version":"123",
+                    "description":"dezqde"
+                }
+            ]}
+        ]},
+        { "serveurs":[
+            { "serveur":[
+                {
+                    "nom":"clem",
+                    "URL":"dezqde"
+                } 
+            ]}
+        ]}
+    ]}
+]}
